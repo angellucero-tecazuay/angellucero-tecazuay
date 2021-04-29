@@ -15,9 +15,7 @@
 }
 
 .content {
-    border: 0;
-    margin: 0;
-    padding: 0;
+    background-color: #2292351f;
     width: 100%;
     height: 100%;
 }
